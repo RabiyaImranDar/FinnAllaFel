@@ -9,7 +9,7 @@ public class PingPong {
             return "pong";
         }
         else{
-            return "You have not written ping";
+            return "You didn't say ping!";
         }
     }
 
